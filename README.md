@@ -37,13 +37,6 @@ I’m a **fourth ‑year Bachelor of Information Technology student** at **KCA
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gideonmuchina&show_icons=true&theme=radical" alt="Gideon's GitHub stats" />
-</p>
-
----
 
 ## 💌 Get In Touch
 
