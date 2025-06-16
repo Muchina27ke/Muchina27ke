@@ -1,7 +1,6 @@
 # Gideon Muchina
 
-![GitHub followers](https://img.shields.io/github/followers/gideonmuchina?label=Follow&style=social)
-![Profile views](https://komarev.com/ghpvc/?username=gideonmuchina&color=blue)
+![Profile]([https://komarev.com/ghpvc/?username=gideonmuchina&color=blue](https://github.com/Muchina27ke))
 
 ---
 
