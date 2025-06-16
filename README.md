@@ -1,9 +1,5 @@
 # Gideon Muchina
 
-![Profile]([https://komarev.com/ghpvc/?username=gideonmuchina&color=blue](https://github.com/Muchina27ke))
-
----
-
 ## 🚀 About Me
 
 I’m a **fourth ‑year Bachelor of Information Technology student** at **KCA University** with a passion for building robust, user‑centric applications. My journey spans:
