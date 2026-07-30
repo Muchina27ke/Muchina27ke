@@ -13,16 +13,15 @@
 
 ---
 
-### 🚀 About Me
+### 👋 About Me
 
-I'm **Head of Technical Support**, a cloud-based ISP billing and management platform, based in Nairobi, Kenya. I graduated with a **BSc in Information Technology from KCA University** and hold a **Software Engineering certificate from ALX Africa**.
+Based in Nairobi, Kenya. I enjoy coding and I'm always learning something new — I like getting into the details of how things actually work.
 
-- 🏢 Work daily on **ISPMan's** Elixir/Phoenix/Ash Framework platform — backend (`isp-man-core`) and frontend LiveView (`isp-man-app`)
-- 📡 Deep hands-on expertise in **MikroTik RouterOS**: PPPoE, hotspot, RADIUS auth/CoA, WireGuard, firewall rules, and PCC load balancing
-- 🔧 Recent builds: a Twilio-powered **WhatsApp notification system** (payments, suspensions, expiry reminders), an **invoice enforcement engine** (dashboard freezes, Oban jobs, grace periods), and a **Live Traffic Overview** dashboard using LocalCache + PubSub
-- 🌍 Managed large-scale **customer migrations** from MikroTik to ISPMan across multiple ISP sites (PPPoE & hotspot bulk imports)
-- 🐧 Kali Linux daily driver — comfortable across WireGuard tunneling, remote device access (jumpbox setups), and dev environment troubleshooting
-- 🎓 Finished my degree at KCA University — now fully focused on infrastructure engineering and platform development
+- 💻 I like coding and building things
+- 📚 Always learning — new tools, new ideas
+- ♟️ Big fan of chess
+- 🐧 Linux enthusiast
+- 🎓 BSc in Information Technology, KCA University
 
 ---
 
@@ -60,12 +59,12 @@ I'm **Head of Technical Support**, a cloud-based ISP billing and management plat
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muchina27ke&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muchina27ke&show_icons=true&theme=radical&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muchina27ke&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muchina27ke&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Muchina27ke&theme=radical&hide_border=true" />
 </p>
 
 ---
