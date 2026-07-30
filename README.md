@@ -15,10 +15,10 @@
 
 ### 👋 About Me
 
-Based in Nairobi, Kenya. I enjoy coding and I'm always learning something new — I like getting into the details of how things actually work.
+Based in Nairobi, Kenya. I enjoy coding and I'm always learning something new  I like getting into the details of how things actually work.
 
 - 💻 I like coding and building things
-- 📚 Always learning — new tools, new ideas
+- 📚 Always learning  new tools, new ideas
 - ♟️ Big fan of chess
 - 🐧 Linux enthusiast
 - 🎓 BSc in Information Technology, KCA University
