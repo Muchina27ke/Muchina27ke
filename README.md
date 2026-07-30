@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-I'm **Head of Technical Support at ISPMan (ExPivot)**, a cloud-based ISP billing and management platform, based in Nairobi, Kenya. I graduated with a **BSc in Information Technology from KCA University** and hold a **Software Engineering certificate from ALX Africa**.
+I'm **Head of Technical Support**, a cloud-based ISP billing and management platform, based in Nairobi, Kenya. I graduated with a **BSc in Information Technology from KCA University** and hold a **Software Engineering certificate from ALX Africa**.
 
 - 🏢 Work daily on **ISPMan's** Elixir/Phoenix/Ash Framework platform — backend (`isp-man-core`) and frontend LiveView (`isp-man-app`)
 - 📡 Deep hands-on expertise in **MikroTik RouterOS**: PPPoE, hotspot, RADIUS auth/CoA, WireGuard, firewall rules, and PCC load balancing
