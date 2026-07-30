@@ -63,10 +63,6 @@ Based in Nairobi, Kenya. I enjoy coding and I'm always learning something new â€
   <img height="165" src="https://github-readme-stats-nine-rho-26.vercel.app/api/top-langs/?username=Muchina27ke&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Muchina27ke&theme=radical&hide_border=true" />
-</p>
-
 ---
 
 ### ðŸ’Œ Get In Touch
