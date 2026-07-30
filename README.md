@@ -15,10 +15,10 @@
 
 ### 👋 About Me
 
-Based in Nairobi, Kenya. I enjoy coding and I'm always learning something new  I like getting into the details of how things actually work.
+Based in Nairobi, Kenya. I enjoy coding and I'm always learning something new — I like getting into the details of how things actually work.
 
 - 💻 I like coding and building things
-- 📚 Always learning  new tools, new ideas
+- 📚 Always learning — new tools, new ideas
 - ♟️ Big fan of chess
 - 🐧 Linux enthusiast
 - 🎓 BSc in Information Technology, KCA University
@@ -59,8 +59,8 @@ Based in Nairobi, Kenya. I enjoy coding and I'm always learning something new  I
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muchina27ke&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muchina27ke&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-nine-rho-26.vercel.app/api?username=Muchina27ke&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-nine-rho-26.vercel.app/api/top-langs/?username=Muchina27ke&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
